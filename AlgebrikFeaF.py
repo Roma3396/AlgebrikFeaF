@@ -14,7 +14,6 @@ ADMIN_ID = 7829422043
 CHANNELS = [
     {"id": -1003646737157, "link": "https://t.me/Disney_Multfilmlar1", "name": "1-Kanal"},
     {"id": -1003155796926, "link": "https://t.me/FeaF_Helping", "name": "2-Kanal"},
-    {"id": 7696636612, "link": "https://t.me/Pul_toplaymizuz_bot", "name": "3-Bot (Obuna)"}
 ]
 
 # Gemini sozlamalari
