@@ -17,7 +17,7 @@ CHANNELS = [
 ]
 
 # Gemini AI sozlamasi (API_KEY ni o'zgartiring)
-genai.configure(api_key="AIzaSyCZUQwzuyo3KlKl8SovTK_e2EPh-6akS68") 
+genai.configure(api_key="GEMINI_API_KEY") 
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Ma'lumotlar bazasi o'rniga vaqtinchalik lug'at
